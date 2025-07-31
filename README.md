@@ -1,2 +1,2 @@
 # speech-emotion-recognition
-IBM internship project
+Microsoft internship project
